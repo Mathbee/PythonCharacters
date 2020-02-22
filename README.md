@@ -1,2 +1,2 @@
 # PythonCharacters
-Some Python Character
+Python语言特性
